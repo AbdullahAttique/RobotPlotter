@@ -15,7 +15,7 @@ The Robot
 ![A picture of the robot](https://github.com/AbdullahAttique/RobotPlotter/blob/main/robotPlotterPicture.jpg?raw=true)
 
 CAD Model
-![The CAD Model of the robot(https://github.com/AbdullahAttique/RobotPlotter/blob/main/robot%20cad%20angle.png?raw=true)
+![The CAD Model of the robot](https://github.com/AbdullahAttique/RobotPlotter/blob/main/robot%20cad%20angle.png?raw=true)
 
 
 
