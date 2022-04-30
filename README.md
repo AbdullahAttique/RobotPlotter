@@ -12,9 +12,10 @@ A robot that can draw a picture by moving around on a page with a pen. It uses G
 
 ## Images
 The Robot
+![A picture of the robot](https://github.com/AbdullahAttique/RobotPlotter/blob/main/robotPlotterPicture.jpg?raw=true)
 
-
-CAD model
+CAD Model
+![The CAD Model of the robot](https://github.com/AbdullahAttique/RobotPlotter/blob/main/robot%20cad%20angle.png?raw=true)
 
 
 
